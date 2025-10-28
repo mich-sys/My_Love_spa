@@ -1,4 +1,7 @@
-# My Love SPA
+<h1 align="center">
+	<img src="https://img.icons8.com/?size=80&id=LJ2m-35b6mCB&format=png" alt="Night sky icon" width="48" height="48" />
+	<span>My Love SPA</span>
+</h1>
 
 A responsive single-page React experience crafted as a heartfelt digital gift. The app features six interactive views with a Name-only gate and Spotify-powered soundtrack.
 
